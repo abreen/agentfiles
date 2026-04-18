@@ -1,0 +1,5 @@
+- Use `fd` instead of `find`
+- Use `rg` (ripgrep) instead of `grep`
+- Use `sg` (ast-grep) for structural code search
+- Use `jq` for JSON filtering and transformation
+- Use `yq` for YAML filtering

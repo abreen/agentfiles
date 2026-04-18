@@ -1,0 +1,4 @@
+interface:
+  display_name: "ast-grep CLI"
+  short_description: "Use ast-grep CLI for syntax-aware code search and rewrites"
+  default_prompt: "Use $ast-grep-cli to run sg for structural code search and safe rewrites."
